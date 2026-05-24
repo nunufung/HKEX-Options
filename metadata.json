@@ -1,0 +1,6 @@
+{
+  "name": "HKEX Options Decision Engine",
+  "description": "Professional rule-based HKEX options trading decision system featuring DTE management, risk scoring, and real-time alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
